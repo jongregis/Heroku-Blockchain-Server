@@ -1,0 +1,9 @@
+1579233389248 - info: blockchain.info wallet service v0.26.3 running on http://127.0.0.1:3000
+1579233514437 - info: blockchain.info wallet service v0.26.3 running on http://127.0.0.1:3000
+1579233526165 - error: listen EADDRINUSE: address already in use 127.0.0.1:3000
+wallet.external not set: TypeError: Class constructor Exchange cannot be invoked without 'new'
+    at new SFOX (/Users/jongregis/Desktop/Desktop/Heroku-Blockchain-Server/node_modules/bitcoin-sfox-client/lib/sfox.js:56:98)
+    at new External (/Users/jongregis/Desktop/Desktop/Heroku-Blockchain-Server/node_modules/blockchain-wallet-client/lib/external.js:27:20)
+    at fetchSuccess (/Users/jongregis/Desktop/Desktop/Heroku-Blockchain-Server/node_modules/blockchain-wallet-client/lib/external.js:111:12)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+1579233647619 - error: ERR_PASSWORD
