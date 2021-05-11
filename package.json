@@ -13,6 +13,6 @@
   "dependencies": {
     "blockchain-wallet-service": "^0.26.3",
     "blockchain.info": "^2.12.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
